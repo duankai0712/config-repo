@@ -1,1 +1,8 @@
-name : miman
+server:
+  port: 60000
+
+spring:
+  application:
+    name: config-server
+
+name: config-client-default
