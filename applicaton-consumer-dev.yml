@@ -1,5 +1,2 @@
-spring :
-  application :
-      name: config-client
-server :
-  port : 64000
+name : wocao
+
