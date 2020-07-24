@@ -1,2 +1,4 @@
 name : wocao
+server:
+  port: 61000
 
